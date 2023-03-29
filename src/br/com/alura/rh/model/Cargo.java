@@ -5,7 +5,6 @@ public enum Cargo {
 	ASSISTENTE,
 	ANALISTA,
 	ESPECIALISTA,
-	GERENTE,
-	DEV_JAVA_JR;
+	GERENTE;
 
 }

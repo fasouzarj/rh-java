@@ -9,7 +9,7 @@ public class App {
         Funcionario funcionario = new Funcionario(
                 "Flavio Alves", 
                 "12345678900", 
-                Cargo.DEV_JAVA_JR,
+                Cargo.ANALISTA,
                 new BigDecimal("3500.00"));
         System.out.println(funcionario.getCpf());
         System.out.println(funcionario.getNome());
